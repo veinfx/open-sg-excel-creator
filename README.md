@@ -4,6 +4,9 @@
 
 * 완료 : 2023.04.27 (목)
 
+***
+
+샷그리드의 Asset or Shot 페이지에서 Excel 로 Export 할것들을 선택하고 Ami(액션매뉴아이템)을 사용한다.
 
 ***
 ## How to use
