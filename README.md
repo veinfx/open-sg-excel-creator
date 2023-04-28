@@ -6,7 +6,7 @@
 
 ***
 
-샷그리드의 Asset or Shot 페이지에서 Excel 로 Export 할것들을 선택하고 Ami(액션매뉴아이템)을 사용한다.
+샷그리드의 Asset or Shot 페이지에서 Excel 로 Export 할것들을 선택하고 Ami(액션매뉴아이템)에 커스텀 프로토콜(레지스트리) 환경을 셋팅하여 사용한다.
 
 ***
 ## How to use
